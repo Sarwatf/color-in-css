@@ -1,0 +1,29 @@
+/* color name */
+/* h1{
+    color: brown;
+} */
+/* HEX CODE */
+/* h1{
+    color:  #782380;
+} */
+/* RGB */
+/* h1{
+    color: rgb(218, 46, 19);
+} */
+/* BACKGROUND */
+/* body{
+    background-color: wheat;
+    color: brown;
+} */
+/* div{
+    background-color: wheat;
+} */
+/* opacity */
+#div1 {
+    background-color: rgb(239, 113, 11);
+    opacity: 0.2
+    ;
+}
+ img{
+    opacity: 0.5;
+} 
